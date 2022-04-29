@@ -5,14 +5,16 @@
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
-      "args": [],
+      "args": [
+        ""
+      ],
       "stopAtEntry": true,
-      "cwd": "/Users/jasperdonut/Git/CMPT-125/notes/LL",
+      "cwd": "/Users/jasperdonut/Coding/cmpt 125/hw3-cmpt125-spring22",
       "environment": [],
-      "program": "/Users/jasperdonut/Git/CMPT-125/notes/LL/build/Debug/outDebug",
+      "program": "/Users/jasperdonut/Coding/cmpt 125/hw3-cmpt125-spring22/build/Debug/outDebug",
       "internalConsoleOptions": "openOnSessionStart",
       "MIMode": "gdb",
-      "console": "integratedTerminal"
+      "externalConsole": true
     }
   ]
 }

@@ -1,2 +1,2 @@
 # CMPT-125
-My code for CMPT 125
+Code archive for CMPT 125
